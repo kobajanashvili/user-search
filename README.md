@@ -1,7 +1,5 @@
 # AngularMini
 
-- Fullstack-Blog(node.js, express, mongoose, MongoDB, MLab)
+<img src="https://monosnap.com/image/Tkk13IeBgqxckvLPRrKqKNwm2E5tBA.png">
 
-<img src="https://images2.imgbox.com/e2/be/DfhrJG7k_o.jpg" alt="image host"/>
-
-<img src="https://images2.imgbox.com/43/06/Eag8y1U3_o.jpg" alt="image host"/>
+<img src="https://monosnap.com/image/PziCXLb4DDdnkG0GqOwySJV9OXmfep.png">
