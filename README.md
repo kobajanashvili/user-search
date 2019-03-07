@@ -1,6 +1,6 @@
 # AngularMini
 
-# this project https://kobajanashvili.github.io/user-search/
+This project https://kobajanashvili.github.io/user-search/
 
 <img src="https://monosnap.com/image/Tkk13IeBgqxckvLPRrKqKNwm2E5tBA.png">
 
